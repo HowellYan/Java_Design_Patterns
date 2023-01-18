@@ -2,7 +2,7 @@ package org.example.prototype;
 
 import java.util.List;
 
-public class PrototypePatternTest {
+public class EmployeesTest {
     public static void main(String[] args) throws CloneNotSupportedException {
         Employees emps = new Employees();
         emps.loadData();
